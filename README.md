@@ -1,8 +1,8 @@
-# Challenge-13 ORM
+# Challenge-22 Redux
 
 ## Purpose and Description
 
-The purpose of this application is to 
+The purpose of this application is to show my Redux skills
 
 ## Tech stack
 
